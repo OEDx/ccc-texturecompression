@@ -39,7 +39,7 @@
 
 5. 可以在扩展/纹理压缩菜单下面选择关闭或者开启纹理压缩。如果选择关闭，CocosCreator构建完成以后将不会启动压缩
 
-![](https://github.com/lxw5689/ccc-texturecompression/raw/master/images/tp_openClose.png)
+![](images/tp_openClose.png)
 
 6. 将Xcode或者Android Studio里面引用的res资源目录，修改成`packResIOS`或者`packResAndroid`下面的res目录
 
@@ -49,10 +49,10 @@
 
 * 全量压缩
 
-![全量压缩](https://github.com/lxw5689/ccc-texturecompression/raw/master/images/pack1.gif)
+![全量压缩](images/pack1.gif)
 
 * 增量压缩
 
-![增量压缩](https://github.com/lxw5689/ccc-texturecompression/raw/master/images/pack4.gif)
+![增量压缩](images/pack4.gif)
 
 
