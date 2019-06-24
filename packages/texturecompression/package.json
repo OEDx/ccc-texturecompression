@@ -1,0 +1,22 @@
+{
+  "name": "packtexture",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/纹理压缩/开启": {
+      "message": "packtexture:opentexturepack"
+    },
+    "i18n:MAIN_MENU.package.title/纹理压缩/关闭": {
+      "message": "packtexture:closetexturepack"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "纹理压缩",
+    "width": 640,
+    "height": 960
+  }
+}
